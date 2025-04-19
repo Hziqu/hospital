@@ -60,7 +60,7 @@ nav {
   .img-cow {
     padding-top: 70px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), 
-    rgba(0,0,0,0.2)), url('/img/about.jpg');
+    rgba(0,0,0,0.2)), url('img/about.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -73,7 +73,7 @@ nav {
   .img-cow-sm {
     padding-top: 70px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), 
-    rgba(0,0,0,0.2)), url('/img/about.jpg');
+    rgba(0,0,0,0.2)), url('img/about.jpg');
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
