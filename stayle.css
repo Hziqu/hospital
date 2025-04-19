@@ -87,5 +87,14 @@ nav {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   }
 
+.fade {
+    opacity: 0;
+    transition: all 0.5s ease;
+    transform: translateY(5%);
 
+}
+.fade.show {
+    opacity: 1;
+    transform: translateY(0%);
+}
 
